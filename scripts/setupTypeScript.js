@@ -1,7 +1,7 @@
 /**
  * Run this script to convert the project to TypeScript. This is only guaranteed to work
  * on the unmodified default template; if you have done code changes you are likely need
- * to touch up the generated project manually.
+ * to touch up the generated project manually.sdssdadadadasadasdawdsfdfggrgsdfdgrdgsdsds
  */
 
 // @ts-check
